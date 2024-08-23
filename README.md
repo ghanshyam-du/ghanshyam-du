@@ -19,10 +19,8 @@
 
   
 <p align="center">
-  <a href="https://leetcode.com/u/ghanshyamd5402/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/ghanshyamd5402/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/ghanshyamd5402/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/ghanshyamd5402/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/ghanshyamd5402/" target="_blank"><img align="center" src="![image](https://github.com/user-attachments/assets/e354d137-7302-446f-8b3f-21a095603605)
+" alt="jyot" height="200" width="200" /></a>
 </p>
 <p align="center">
   
