@@ -19,12 +19,12 @@
 
   
 <p align="center">
-  <a href="https://leetcode.com/u/ghanshyamd5402/" target="_blank"><img align="center" src="![image](https://github.com/user-attachments/assets/e354d137-7302-446f-8b3f-21a095603605)
+  <a href="https://leetcode.com/u/ghanshyamd5402/" target="_blank"><img align="center" src="
 " alt="jyot" height="200" width="200" /></a>
 </p>
 <p align="center">
   
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/its-nishant320?theme=dark&font=Nunito&ext=heatmap" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ghanshyamd5402?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
 
