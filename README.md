@@ -16,13 +16,6 @@
 </div> -->
 <h2 align="center">Leetcode Info<h2>
 
-
-  
-<p align="center">
-  <a href="https://leetcode.com/u/ghanshyamd5402/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png
-" alt="jyot" height="200" width="200" /></a>
-</p>
-<p align="center">
   
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ghanshyamd5402?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
