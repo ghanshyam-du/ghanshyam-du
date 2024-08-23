@@ -19,7 +19,7 @@
 
   
 <p align="center">
-  <a href="https://leetcode.com/u/ghanshyamd5402/" target="_blank"><img align="center" src="
+  <a href="https://leetcode.com/u/ghanshyamd5402/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png
 " alt="jyot" height="200" width="200" /></a>
 </p>
 <p align="center">
