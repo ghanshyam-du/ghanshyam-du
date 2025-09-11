@@ -1,4 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
+
+[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/zainwen9)
+
 <h1 align="center">Hi, I'm Ghanshyam Dubey</h1>
 <h3 align="center">A Backend Software Developer</h3>
 
