@@ -15,6 +15,7 @@
 - I’m currently learning **DSA in Java**.
 
 - How to reach me **ghanshyamd816@gmail.com**
+- My resume **[Link](https://drive.google.com/file/d/1c5TG6ruKFMvWhg5dsqoalAWDsMkiiaHh/view?usp=drivesdk)**
 
 
 <h3 align="left">Connect with me:</h3>
