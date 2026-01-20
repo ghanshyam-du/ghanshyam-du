@@ -32,7 +32,34 @@
 
 </div>
 
+## 📋 **Navigation Menu**
+
+<div align="center">
+
+```bash
+┌──(ghanshyam@dev)-[~/menu]
+└─$ ls -la commands/
+```
+
+| Command | Description | Link |
+|---------|-------------|------|
+| `./about.sh` | System Information & About Me | [🔗 About](#-system-information) |
+| `./tech-stack.sh` | Tech Arsenal & Skills | [🔗 Tech Stack](#-tech-arsenal) |
+| `./stats.sh` | Developer Stats & RPG | [🔗 Stats](#-developer-stats) |
+| `./github.sh` | GitHub Analytics | [🔗 GitHub](#-github-analytics) |
+| `./connect.sh` | Social Links & Contact | [🔗 Connect](#-connect-with-me) |
+| `./wisdom.sh` | Dev Quotes & Jokes | [🔗 Wisdom](#-dev-wisdom) |
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **System Information**
+
+<details open>
+<summary><b>📂 Click to expand/collapse</b></summary>
+
+<br>
 
 ```bash
 ┌──(ghanshyam@dev)-[~]
@@ -101,14 +128,16 @@ console.log(dev.getCurrentMission());
 
 <br clear="right"/>
 
-```bash
-┌──(ghanshyam@dev)-[~]
-└─$ ls -la ~/tech-stack/
-```
+</details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="28"> **Tech Arsenal**
+
+<details>
+<summary><b>📂 Click to expand/collapse</b></summary>
+
+<br>
 
 ```bash
 ┌──(ghanshyam@dev)-[~/tech-stack]
@@ -139,14 +168,16 @@ console.log(dev.getCurrentMission());
 
 </div>
 
-```bash
-┌──(ghanshyam@dev)-[~/tech-stack]
-└─$ cd ~/stats && ./generate_stats.sh
-```
+</details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="28"> **Developer Stats**
+
+<details>
+<summary><b>📂 Click to expand/collapse</b></summary>
+
+<br>
 
 ```bash
 ┌──(ghanshyam@dev)-[~/stats]
@@ -190,14 +221,16 @@ console.log(dev.getCurrentMission());
 
 </div>
 
-```bash
-┌──(ghanshyam@dev)-[~/stats]
-└─$ ./github_analytics.sh --detailed
-```
+</details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> **GitHub Analytics**
+
+<details>
+<summary><b>📂 Click to expand/collapse</b></summary>
+
+<br>
 
 ```bash
 ┌──(ghanshyam@dev)-[~/github]
@@ -221,18 +254,9 @@ console.log(dev.getCurrentMission());
 └─$ ./summary_cards.sh --generate
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="28"> **Detailed Analytics**
-
-```bash
-┌──(ghanshyam@dev)-[~/analytics]
-└─$ python3 analyze_commits.py --visual
-```
+<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghanshyam-du&theme=radical" width="100%" /></a>
 
 <div align="center">
-
-<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghanshyam-du&theme=radical" width="100%" /></a>
 
 <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghanshyam-du&theme=radical" width="32%" /></a>
 <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ghanshyam-du&theme=radical" width="32%" /></a>
@@ -243,14 +267,35 @@ console.log(dev.getCurrentMission());
 
 </div>
 
+</details>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🐢 **Contribution Turtle Animation**
+
+<div align="center">
+
 ```bash
-┌──(ghanshyam@dev)-[~/analytics]
-└─$ cd ~/connect && ls -la
+┌──(ghanshyam@dev)-[~/contributions]
+└─$ ./turtle_animation.sh --show-commits
 ```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghanshyam-du/ghanshyam-du/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghanshyam-du/ghanshyam-du/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ghanshyam-du/ghanshyam-du/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="28"> **Connect With Me**
+
+<details>
+<summary><b>📂 Click to expand/collapse</b></summary>
+
+<br>
 
 ```bash
 ┌──(ghanshyam@dev)-[~/connect]
@@ -286,14 +331,21 @@ console.log(dev.getCurrentMission());
 
 </div>
 
-```bash
-┌──(ghanshyam@dev)-[~/connect]
-└─$ cd ~/wisdom && cat quotes.txt
-```
+</details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="28"> **Dev Wisdom**
+
+<details>
+<summary><b>📂 Click to expand/collapse</b></summary>
+
+<br>
+
+```bash
+┌──(ghanshyam@dev)-[~/wisdom]
+└─$ cat quotes.txt
+```
 
 <div align="center">
 
@@ -318,10 +370,7 @@ console.log(dev.getCurrentMission());
 
 </div>
 
-```bash
-┌──(ghanshyam@dev)-[~/wisdom]
-└─$ ./motivational_quote.sh
-```
+</details>
 
 <br/>
 
@@ -334,14 +383,6 @@ console.log(dev.getCurrentMission());
 ### ⭐ **If you find my work interesting, drop a star on my repos!**
 
 <br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghanshyam-du/ghanshyam-du/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghanshyam-du/ghanshyam-du/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ghanshyam-du/ghanshyam-du/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/><br/>
 
 ```bash
 ┌──(ghanshyam@dev)-[~]
