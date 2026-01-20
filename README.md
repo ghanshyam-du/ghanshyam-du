@@ -1,151 +1,371 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ghanshyam%20Dubey&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Software%20Developer%20|%20Building%20Scalable%20Solutions&descAlignY=51&descAlign=50)
-
-<img src="https://komarev.com/ghpvc/?username=ghanshyam-du&label=Profile%20Views&color=3DFFEF&style=for-the-badge" alt="Profile Views" />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3DFFEF&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;DSA+Enthusiast+%F0%9F%93%8A;Building+Chat+Applications+%F0%9F%92%AC)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
-
-## 🚀 About Me
-
-```javascript
-const ghanshyam = {
-    location: "India 🇮🇳",
-    role: "Backend Software Developer",
-    currentFocus: "Chat Application Development",
-    learning: ["DSA in Java", "System Design", "Microservices"],
-    askMeAbout: ["Backend Development", "API Design", "Database Architecture"],
-    technologies: {
-        backend: ["Node.js", "Express.js", "Java"],
-        databases: ["MongoDB", "MySQL"],
-        frontend: ["React", "HTML", "CSS", "JavaScript"],
-        tools: ["Git", "Postman", "VS Code"]
-    },
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
+```
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                      ║
+║     ██████╗ ██╗  ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗██╗   ██╗ █████╗ ███╗   ███╗  ║
+║    ██╔════╝ ██║  ██║██╔══██╗████╗  ██║██╔════╝██║  ██║╚██╗ ██╔╝██╔══██╗████╗ ████║  ║
+║    ██║  ███╗███████║███████║██╔██╗ ██║███████╗███████║ ╚████╔╝ ███████║██╔████╔██║  ║
+║    ██║   ██║██╔══██║██╔══██║██║╚██╗██║╚════██║██╔══██║  ╚██╔╝  ██╔══██║██║╚██╔╝██║  ║
+║    ╚██████╔╝██║  ██║██║  ██║██║ ╚████║███████║██║  ██║   ██║   ██║  ██║██║ ╚═╝ ██║  ║
+║     ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝  ║
+║                                                                                      ║
+║    ██████╗ ██╗   ██╗██████╗ ███████╗██╗   ██╗                                       ║
+║    ██╔══██╗██║   ██║██╔══██╗██╔════╝╚██╗ ██╔╝                                       ║
+║    ██║  ██║██║   ██║██████╔╝█████╗   ╚████╔╝                                        ║
+║    ██║  ██║██║   ██║██╔══██╗██╔══╝    ╚██╔╝                                         ║
+║    ██████╔╝╚██████╔╝██████╔╝███████╗   ██║                                          ║
+║    ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝   ╚═╝                                          ║
+║                                                                                      ║
+║    ┌─────────────────────────────────────────────────────────────────────────────┐  ║
+║    │ Trainee Developer @ Clentra | Hackathon Winner 🏆 | MERN Stack Developer   │  ║
+║    └─────────────────────────────────────────────────────────────────────────────┘  ║
+║                                                                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-## 🛠️ Tech Stack
+<img src="https://komarev.com/ghpvc/?username=ghanshyam-du&label=PROFILE+VIEWS&color=ff7200&style=for-the-badge" alt="Profile Views" />
 
-<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=FF7200&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=💼+Trainee+Developer+%40+Clentra+Web+Services;🏆+Hackathon+Champion+%7C+MERN+Stack+Specialist;🎓+Final+Year+CSE+%7C+Backend+Architect;🚀+Building+The+Future+One+Commit+At+A+Time" alt="Typing SVG" /></a>
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
-## 📊 GitHub Stats
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **System Information**
+
+```bash
+┌──(ghanshyam@dev)-[~]
+└─$ neofetch
+
+                   -`                    ghanshyam@developer
+                  .o+`                   ─────────────────────
+                 `ooo/                   OS: Developer Edition
+                `+oooo:                  Host: GitHub Profile
+               `+oooooo:                 Kernel: MERN Stack
+               -+oooooo+:                Uptime: 21 years
+             `/:-:++oooo+:               Packages: Node.js, React, MongoDB
+            `/++++/+++++++:              Shell: bash 5.1.16
+           `/++++++++++++++:             Resolution: 1920x1080
+          `/+++ooooooooooooo/`           DE: VS Code
+         ./ooosssso++osssssso+`          WM: Git
+        .oossssso-````/ossssss+`         Theme: Dark Mode
+       -osssssso.      :ssssssso.        Icons: Skill Icons
+      :osssssss/        osssso+++.       Terminal: Konsole
+     /ossssssss/        +ssssooo/-       CPU: Intel i7 (Problem Solving)
+   `/ossssso+/:-        -:/+osssso+-     GPU: NVIDIA (Code Rendering)
+  `+sso+:-`                 `.-/+oso:    Memory: 2812+ Connections
+ `++:.                           `-/+/   Disk: Unlimited Knowledge
+ .`                                 `/   Network: LinkedIn, GitHub
+
+┌──(ghanshyam@dev)-[~]
+└─$ cat about.sh
+```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</picture>
+
+```javascript
+#!/bin/bash
+# Developer Configuration File
+
+class GhanshyamDubey {
+    constructor() {
+        this.username = "ghanshyam-du";
+        this.name = "Ghanshyam Dubey";
+        this.role = "Trainee Developer @ Clentra";
+        this.location = "Vadodara, Gujarat, IN 🇮🇳";
+        this.education = "Final Year CSE @ Parul University";
+        this.achievements = [
+            "🏆 Hackathon Winner",
+            "💼 Professional Developer",
+            "⭐ 2812+ LinkedIn Connections"
+        ];
+    }
+    
+    getCurrentMission() {
+        return [
+            "⚔️  Building scalable backend systems",
+            "🛡️  Mastering MERN Stack architecture", 
+            "⚡ Contributing production-grade code",
+            "🎯 Solving complex algorithms"
+        ];
+    }
+}
+
+const dev = new GhanshyamDubey();
+console.log(dev.getCurrentMission());
+```
+
+<br clear="right"/>
+
+```bash
+┌──(ghanshyam@dev)-[~]
+└─$ ls -la ~/tech-stack/
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="28"> **Tech Arsenal**
+
+```bash
+┌──(ghanshyam@dev)-[~/tech-stack]
+└─$ cat backend.conf frontend.conf databases.conf tools.conf
+```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghanshyam-du&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DFFEF&icon_color=3DFFEF&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyam-du&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3DFFEF&text_color=FFFFFF" alt="Top Languages" height="180"/>
+
+### 🔥 **Backend Development**
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,java,python&theme=dark" alt="Backend Stack"/></a>
+</p>
+
+### 🎨 **Frontend Development**
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" alt="Frontend Stack"/></a>
+</p>
+
+### 💾 **Databases & Storage**
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Databases"/></a>
+</p>
+
+### 🛠️ **Development Tools**
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools"/></a>
+</p>
+
 </div>
+
+```bash
+┌──(ghanshyam@dev)-[~/tech-stack]
+└─$ cd ~/stats && ./generate_stats.sh
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="28"> **Developer Stats**
+
+```bash
+┌──(ghanshyam@dev)-[~/stats]
+└─$ htop --user=ghanshyam
+```
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghanshyam-du&theme=tokyonight&hide_border=true&background=0D1117&stroke=3DFFEF&ring=3DFFEF&fire=FF6B6B&currStreakLabel=3DFFEF" alt="GitHub Streak" />
+
+```ascii
+╔════════════════════════════════════════════════════════════════════════╗
+║                      🎮 DEVELOPER CHARACTER STATS 🎮                   ║
+╠════════════════════════════════════════════════════════════════════════╣
+║                                                                        ║
+║  👤 USERNAME: ghanshyam-du          💼 CLASS: Full Stack Developer    ║
+║  🎓 LEVEL: 21 (Final Year)          🏆 RANK: Hackathon Champion       ║
+║  ⭐ EXP: 2,812+ Connections         🏢 GUILD: Clentra Web Services    ║
+║                                                                        ║
+╠════════════════════════════════════════════════════════════════════════╣
+║                           SKILL LEVELS                                 ║
+╠════════════════════════════════════════════════════════════════════════╣
+║                                                                        ║
+║  ⚔️  Backend Power        [████████░░] 85/100  🔥                     ║
+║  🎨 Frontend Design       [███████░░░] 75/100  ✨                     ║
+║  💾 Database Mastery      [████████░░] 82/100  💎                     ║
+║  ⚡ Problem Solving       [█████████░] 90/100  ⚡                     ║
+║  🐛 Debug Efficiency      [███████░░░] 78/100  🔧                     ║
+║  🚀 Deployment Skills     [███████░░░] 72/100  🚀                     ║
+║  ☕ Coffee Consumption    [██████████] 100/100 ☕                     ║
+║                                                                        ║
+╠════════════════════════════════════════════════════════════════════════╣
+║                        ACHIEVEMENTS UNLOCKED                           ║
+╠════════════════════════════════════════════════════════════════════════╣
+║                                                                        ║
+║  🏆 Hackathon Champion        💼 Professional Developer                ║
+║  🎓 Academic Excellence       💻 MERN Stack Master                     ║
+║  🔥 GitHub Contributor        ⚡ Backend Specialist                    ║
+║  🌟 Code Quality Expert       🎯 Problem Solver                        ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghanshyam-du&bg_color=0D1117&color=3DFFEF&line=3DFFEF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
+```bash
+┌──(ghanshyam@dev)-[~/stats]
+└─$ ./github_analytics.sh --detailed
+```
 
-## 🏆 GitHub Trophies
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> **GitHub Analytics**
+
+```bash
+┌──(ghanshyam@dev)-[~/github]
+└─$ git stats --all
+```
 
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=ghanshyam-du&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+<a href="#"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=ghanshyam-du&show_icons=true&count_private=true&hide_border=true&title_color=ff7200&icon_color=ff6e96&text_color=c9d1d9&bg_color=0d1117&border_radius=8" alt="GitHub Stats" /></a>
+
+<a href="#"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ghanshyam-du&theme=radical&hide_border=true&stroke=ff7200&background=0D1117&ring=ff7200&fire=ff6e96&currStreakLabel=ff7200&border_radius=8" alt="Streak Stats"/></a>
+
+<a href="#"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ghanshyam-du&custom_title=📊%20Contribution%20Graph&bg_color=0d1117&color=ff7200&line=ff6e96&point=ffffff&area=true&hide_border=true&area_color=ff7200" alt="Contribution Graph" /></a>
+
+<a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ghanshyam-du&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="Trophies" /></a>
 
 </div>
 
-## 💼 Current Projects
+```bash
+┌──(ghanshyam@dev)-[~/github]
+└─$ ./summary_cards.sh --generate
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="28"> **Detailed Analytics**
+
+```bash
+┌──(ghanshyam@dev)-[~/analytics]
+└─$ python3 analyze_commits.py --visual
+```
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 💬 **Chat Application** | Real-time messaging platform with WebSocket support | Node.js, Socket.io, MongoDB |
-| 📚 **DSA Practice** | Daily problem-solving journey on LeetCode | Java |
+<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghanshyam-du&theme=radical" width="100%" /></a>
+
+<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghanshyam-du&theme=radical" width="32%" /></a>
+<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ghanshyam-du&theme=radical" width="32%" /></a>
+<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghanshyam-du&theme=radical" width="32%" /></a>
+
+<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ghanshyam-du&theme=radical" width="49%" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyam-du&layout=compact&hide_border=true&title_color=ff7200&text_color=c9d1d9&bg_color=0d1117&langs_count=8&border_radius=8" width="49%" /></a>
 
 </div>
 
-## 🎯 2025 Goals
+```bash
+┌──(ghanshyam@dev)-[~/analytics]
+└─$ cd ~/connect && ls -la
+```
 
-- ✅ Master Data Structures & Algorithms
-- ✅ Build production-ready Chat Application
-- ✅ Contribute to Open Source
-- ✅ Learn System Design patterns
-- ✅ Solve 500+ DSA problems
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📈 Coding Activity
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="28"> **Connect With Me**
+
+```bash
+┌──(ghanshyam@dev)-[~/connect]
+└─$ cat social_links.conf
+```
 
 <div align="center">
 
-[![ghanshyam's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ghanshyamd5402&theme=dark)](https://leetcode.com/u/ghanshyamd5402/)
+<a href="https://www.linkedin.com/in/ghanshyam-dubey-37a6a1212/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/ghanshyam-du" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://leetcode.com/u/ghanshyamd5402/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://www.instagram.com/ghanshyaamdubey_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://discord.gg/ghanshyam4316" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<a href="mailto:ghanshyamd816@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### 💬 **Open for Collaboration & Opportunities!**
 
 </div>
 
-## 🌐 Connect With Me
+```bash
+┌──(ghanshyam@dev)-[~/connect]
+└─$ cd ~/wisdom && cat quotes.txt
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="28"> **Dev Wisdom**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghanshyam-dubey-37a6a1212/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ghanshyamd5402/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ghanshyaamdubey_)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ghanshyam4316)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghanshyamd816@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1c5TG6ruKFMvWhg5dsqoalAWDsMkiiaHh/view?usp=drivesdk)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder&qColor=%23ff7200&aColor=%23ff6e96)
+
+<br/>
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║  "First, solve the problem. Then, write the code."                   ║
+║                                            — John Johnson             ║
+║                                                                       ║
+║  "Code is like humor. When you have to explain it, it's bad."        ║
+║                                            — Cory House               ║
+║                                                                       ║
+║  "Make it work, make it right, make it fast."                        ║
+║                                            — Kent Beck                ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
-## 💡 Random Dev Quote
+```bash
+┌──(ghanshyam@dev)-[~/wisdom]
+└─$ ./motivational_quote.sh
+```
+
+<br/>
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+### <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="32"> **"Talk is cheap. Show me the code."** — Linus Torvalds
+
+### ⭐ **If you find my work interesting, drop a star on my repos!**
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghanshyam-du/ghanshyam-du/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghanshyam-du/ghanshyam-du/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ghanshyam-du/ghanshyam-du/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/><br/>
+
+```bash
+┌──(ghanshyam@dev)-[~]
+└─$ echo "Thanks for visiting! Keep coding, keep growing! 🔥"
+Thanks for visiting! Keep coding, keep growing! 🔥
+
+┌──(ghanshyam@dev)-[~]  
+└─$ exit
+```
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║           Made with 🔥 by Ghanshyam Dubey (@ghanshyam-du)               ║
+║                                                                          ║
+║       💼 Trainee Developer @ Clentra | 🏆 Hackathon Champion            ║
+║                                                                          ║
+║                    🚀 Open for Opportunities! 🚀                         ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+**Connection terminated.**
 
 </div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/ghanshyam-du/ghanshyam-du/output/github-contribution-grid-snake-dark.svg)
-
-_Note: To enable the snake animation, create a GitHub Action workflow. See instructions below._
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
-
-**⭐ From [Ghanshyam Dubey](https://github.com/ghanshyam-du) with 💙**
-
-</div>
-
----
