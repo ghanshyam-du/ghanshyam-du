@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ghanshyam-dubey-37a6a1212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghanshyam-du" height="30" width="40" /></a>
-<a href="[https://www.instagram.com/ghanshyaamdubey_]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ghanshyam_du" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ghanshyaamdubey_" target="ghanshyaamdubey_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ghanshyam_du" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/ghanshyamd5402/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Dubey_Ghanshyam" height="30" width="40" /></a>
 <a href="https://discord.gg/ghanshyam4316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ghanshyam_du" height="30" width="40" /></a>
 </p>
