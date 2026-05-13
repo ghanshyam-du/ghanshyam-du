@@ -2,7 +2,7 @@
 
 # 👋 Hey there! I'm Ghanshyam Dubey
 
-### 💼 Trainee Developer @ Clentra Web Services | 🏆 Hackathon Champion | 🎓 Final Year CSE Student
+### 🏆 Hackathon Champion | 💻 Full Stack Developer | 🎓 Final Year CSE Student
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+MERN+Stack+Specialist;Building+Scalable+Solutions+%7C+Problem+Solver;Passionate+About+Clean+Code+%26+Innovation" alt="Typing SVG" />
 
@@ -22,7 +22,6 @@
 const ghanshyam = {
     location: "Vadodara, Gujarat, India 🇮🇳",
     education: "Final Year CSE @ Parul University",
-    currentRole: "Trainee Developer @ Clentra",
     
     code: ["JavaScript", "Java", "Python", "HTML/CSS"],
     technologies: {
@@ -134,10 +133,10 @@ const ghanshyam = {
 | 🎯 Achievement | 📝 Description |
 |:---:|:---|
 | 🏆 **Hackathon Winner** | Champion at competitive coding event |
-| 💼 **Professional Developer** | Trainee Developer at Clentra Web Services |
+| 💻 **MERN Specialist** | Full-stack development expertise |
 | ⭐ **Network Builder** | 2,812+ LinkedIn Connections |
 | 🎓 **Academic Excellence** | Final Year CSE Student |
-| 💻 **MERN Specialist** | Full-stack development expertise |
+| 🚀 **Open Source Contributor** | Actively building & sharing public projects |
 
 </div>
 
