@@ -31,8 +31,7 @@ const ghanshyam = {
         tools: ["Git", "VS Code", "Postman"]
     },
     
-    currentFocus: "Building scalable MERN applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    currentFocus: "Building scalable MERN applications"
 };
 ```
 
