@@ -1,6 +1,6 @@
 # Ghanshyam Dubey
 
-**Full Stack Developer · MERN Stack · Final Year CSE @ Parul University**
+**Full Stack Developer · MERN Stack · 2026 CSE @ Parul University**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghanshyamdu/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/ghanshyam-du)
